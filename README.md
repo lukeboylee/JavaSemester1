@@ -31,3 +31,15 @@ Q7: Prints a triangle using a specified character
 
 - - - 
 
+Q1: toString() method for a money class
+Q2: equals method for a money class
+Q3: Constructor for a money class
+Q4: Accessor methods for the money class
+Q5: Mutator methods for the money class
+Q6: greaterThan method for the money class
+
+
+# Week 4
+
+-  - -
+
